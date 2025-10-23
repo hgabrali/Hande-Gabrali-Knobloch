@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hande-Gabrali-Knobloch</h1>
-<h3 align="center">From Data-Informed Strategy to Data Science</h3>
+<h3 align="center">From Data-Informed Strategy to Data Science</h3> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/hgabrali](https://github.com/hgabrali)
 
